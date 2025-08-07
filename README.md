@@ -1,4 +1,4 @@
-# -AgroStream:  Smart Irrigation System using Sensor Data and Machine Learning for Optimized Water Management
+# AgroStream:  Smart Irrigation System using Sensor Data and Machine Learning for Optimized Water Management
 In a world where every drop of water matters, irrigation is still done based on assumptions and 
 gut feeling. Farmers typically follow set schedules or visual cues (thirsty plants) that lead to 
 over-irrigation, under-irrigation, and large amounts of water waste. 
